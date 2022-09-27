@@ -118,5 +118,5 @@ $ git rm <文件路径>
 $ git rm -r <文件夹路径>
 
 # 移除跟踪指定的文件，在本地仓库的文件夹中保留该文件
-$ git rm --cached
+$ git rm --cached <文件路径>
 ```
